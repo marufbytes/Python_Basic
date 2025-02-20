@@ -5,4 +5,5 @@ def greet_user (name ):
 
 print("Start!")
 greet_user("Maruf")
+greet_user("Ahmed")
 print("Finish!")
