@@ -10,8 +10,11 @@ class Point:
         print('Draw')
 
 
-point = Point()
+point = Point(10,20)
+
+print(point.x)
+
+point.x=11
+print(point.x)
 
 
-
-    
